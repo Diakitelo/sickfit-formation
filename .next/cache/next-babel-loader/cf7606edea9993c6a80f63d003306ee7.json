@@ -1,0 +1,1 @@
+{"ast":null,"code":"export { default } from './products/index';","map":{"version":3,"sources":["/Users/admin/Documents/projetPerso/Advanced-React/sick-fits/frontend/pages/index.js"],"names":["default"],"mappings":"AAAA,SAASA,OAAT,QAAwB,kBAAxB","sourcesContent":["export { default } from './products/index';\n"]},"metadata":{},"sourceType":"module"}
